@@ -2,7 +2,7 @@ package routers
 
 import (
 	"github.com/astaxie/beego"
-	"github.com/codepapa/afmobi_landing/controllers"
+	"github.com/codepapa/AfLanding/controllers"
 )
 
 func init() {
