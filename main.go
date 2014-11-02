@@ -1,7 +1,7 @@
 package main
 
 import (
-	"afmobi_landing/controllers"
+	"AfLanding/controllers"
 	"github.com/astaxie/beego"
 )
 
