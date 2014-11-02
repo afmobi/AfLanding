@@ -1,8 +1,8 @@
 package main
 
 import (
-	"AfLanding/controllers"
 	"github.com/astaxie/beego"
+	"github.com/codepapa/AfLanding/controllers"
 )
 
 func main() {
