@@ -1,0 +1,5 @@
+2015/05/15 02:42:17 [1;34m[app.go:103] [I] http server Running on :80[0m
+2015/05/15 02:44:31 [1;34m[app.go:103] [I] http server Running on :80[0m
+2015/05/15 02:45:57 [1;34m[app.go:103] [I] http server Running on :80[0m
+2015/05/15 02:45:57 [1;35m[asm_amd64.s:2232] [C] ListenAndServe: %!(EXTRA *net.OpError=listen tcp :80: bind: address already in use)[0m
+2015/05/15 02:47:35 [1;34m[app.go:103] [I] http server Running on :80[0m
