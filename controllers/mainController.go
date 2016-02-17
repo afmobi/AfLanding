@@ -11,6 +11,5 @@ type MainController struct {
 func (this *MainController) Get() {
 	this.Data["Website"] = "afmobi.com"
 	this.Data["Email"] = "service@afmobi.com"
-	// this.TplNames = "home.html"
-	this.TplNames = "base/base.html"
+	this.TplName = "base/base.html"
 }
